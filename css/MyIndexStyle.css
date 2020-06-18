@@ -18,7 +18,7 @@ BODY.art {
 
 BODY.paint {
 	background:		url( ../images/PaintBckgrnd2.jpg );
-	background-repeat: 	no-repeat; 
+	background-repeat: 	repeat; 
 	background-position: 	top left; 
 }
 
@@ -96,10 +96,10 @@ p.unige {
 .link7:active { font-size:10px; color:#FFDDAA; font-family: verdana, arial, sans-serif; text-decoration: none}
 .link7:hover { font-size:10px; color:#FFEEDD; font-family: verdana, arial, sans-serif; text-decoration: none}
 
-.link8:link { font-size:10px; color:#F08080; font-family: verdana, arial, sans-serif; text-decoration: none}
-.link8:visited { font-size:10px; color:#F08080; font-family: verdana, arial, sans-serif; text-decoration: none}
-.link8:active { font-size:10px; color:#F08080; font-family: verdana, arial, sans-serif; text-decoration: none}
-.link8:hover { font-size:10px; color:#FFEEDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:link { font-size:10px; color:#FFEEDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:visited { font-size:10px; color:#FFEEDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:active { font-size:10px; color:#FFEEDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:hover { font-size:10px; color:#F08080; font-family: verdana, arial, sans-serif; text-decoration: none}
 
 .family2 {width: 958px; text-align: left; padding-left: 20px; list-style-type: none;}
 ul.family2 { padding-left: 0; margin-left: 0; display: block; width: 30em; }
