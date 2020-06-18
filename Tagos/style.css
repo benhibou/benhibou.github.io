@@ -1,0 +1,73 @@
+BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 11px; BACKGROUND-ATTACHMENT: scroll; MARGIN-LEFT: 80px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #000000;
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	BACKGROUND: black;
+        background-repeat: no-repeat;
+}
+H1 {
+	FONT-SIZE: 12px; COLOR: #979797; FONT-FAMILY: Helvetica, Verdana, Arial
+}
+A:hover {
+	COLOR: #804c4c; BACKGROUND-COLOR: #f0efe3
+}
+H2 {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textsm {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textbg {
+	FONT-SIZE: 20px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textreg {
+	FONT-SIZE: 12px; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+
+}
+.textreg0 {
+	FONT-SIZE: 10px; COLOR: #FFFFC6; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.legend {
+	FONT-SIZE: 12px; COLOR: #AD9410; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.link0:link { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link0:visited { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link0:active { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link0:hover { font-size:10px; background-color:#000000; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link1:link { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:visited { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:active { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:hover { font-size:10px; background-color: #888888; color:#AD0000; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link2:link { font-size:10px; color:#CE007B; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:visited { font-size:10px; color:#CE007B; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:active { font-size:10px; color:#CE007B; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:hover { font-size:10px; background-color: #000000; color:#D6C610; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link3:link { font-size:10px; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:visited { font-size:10px; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:active { font-size:10px; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:hover { font-size:10px; background-color: #000000; color:#D6C610; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link4:link { font-size:10px; color:#EEEEEE; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:visited { font-size:10px; color:#EEEEEE; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:active { font-size:10px; color:#EEEEEE; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:hover { font-size:10px; background-color: #000000; color:#AAAAAA; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link5:link { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:visited { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:active { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:hover { font-size:10px; background-color:#000000; color:#FFFFFF; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link6:link { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:visited { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:active { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:hover { font-size:10px; background-color:#000000; color:#FFFF10; font-family: verdana, arial, sans-serif; text-decoration: none}
