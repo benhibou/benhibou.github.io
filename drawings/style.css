@@ -1,0 +1,170 @@
+BODY {
+	MARGIN-TOP: 70px; FONT-SIZE: 11px; MARGIN-LEFT: 80px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #000000
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	BACKGROUND: black
+}
+H1 {
+	FONT-SIZE: 12px; COLOR: #979797; FONT-FAMILY: Helvetica, Verdana, Arial
+}
+A:hover {
+	COLOR: #804c4c; BACKGROUND-COLOR: #f0efe3
+}
+H2 {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textsm {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textbg {
+	FONT-SIZE: 20px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textreg {
+	FONT-SIZE: 12px; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textreg0 {
+        FONT-SIZE: 10px; COLOR: #AD4A18; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.link0:link { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link0:visited { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link0:active { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link0:hover { font-size:10px; background-color:#000000; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link1:link { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:visited { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:active { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:hover { font-size:10px; background-color: #888888; color:#AD0000; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link2:link { font-size:10px; color:#CE007B; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:visited { font-size:10px; color:#CE007B; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:active { font-size:10px; color:#CE007B; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:hover { font-size:10px; background-color: #000000; color:#D6C610; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link3:link { font-size:10px; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:visited { font-size:10px; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:active { font-size:10px; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:hover { font-size:10px; background-color: #000000; color:#D6C610; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link4:link { font-size:10px; color:#EEEEEE; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:visited { font-size:10px; color:#EEEEEE; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:active { font-size:10px; color:#EEEEEE; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:hover { font-size:10px; background-color: #000000; color:#AAAAAA; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link5:link { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:visited { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:active { font-size:10px; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:hover { font-size:10px; background-color:#000000; color:#FFFFFF; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link6:link { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:visited { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:active { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:hover { font-size:10px; background-color:#000000; color:#D6C610; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link7:link { font-size:10px; color:#840000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link7:visited { font-size:10px; color:#840000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link7:active { font-size:10px; color:#840000; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link7:hover { font-size:10px; background-color:#000000; color:#D60000; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link8:link { font-size:10px; color:#AA7308; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:visited { font-size:10px; color:#AA7308; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:active { font-size:10px; color:#AA7308; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link8:hover { font-size:10px; background-color:#000000; color:#DD7308; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link9:link { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link9:visited { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link9:active { font-size:10px; color:#AD4A18; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link9:hover { font-size:10px; background-color:#000000; color:#FFFFC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link10:link { font-size:10px; color:#08214A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link10:visited { font-size:10px; color:#08214A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link10:active { font-size:10px; color:#08214A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link10:hover { font-size:10px; background-color:#000000; color:#31B5D6; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link11:link { font-size:10px; color:#392231; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link11:visited { font-size:10px; color:#392231; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link11:active { font-size:10px; color:#392231; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link11:hover { font-size:10px; background-color:#000000; color:#FFFFE6; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link12:link { font-size:10px; color:#D63194; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link12:visited { font-size:10px; color:#D63194; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link12:active { font-size:10px; color:#D63194; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link12:hover { font-size:10px; background-color:#000000; color:#E78CC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link13:link { font-size:10px; color:#9C7BBD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link13:visited { font-size:10px; color:#9C7BBD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link13:active { font-size:10px; color:#9C7BBD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link13:hover { font-size:10px; background-color:#000000; color:#E78CC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link14:link { font-size:10px; color:#083194; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link14:visited { font-size:10px; color:#083194; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link14:active { font-size:10px; color:#083194; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link14:hover { font-size:10px; background-color:#000000; color:#E78CC6; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link15:link { font-size:10px; color:#C6EFF7; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link15:visited { font-size:10px; color:#C6EFF7; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link15:active { font-size:10px; color:#C6EFF7; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link15:hover { font-size:10px; background-color:#000000; color:#C6B5DE; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link16:link { font-size:10px; color:#005263; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link16:visited { font-size:10px; color:#005263; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link16:active { font-size:10px; color:#005263; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link16:hover { font-size:10px; background-color:#000000; color:#C6B5DE; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link17:link { font-size:10px; color:#EFFBAD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link17:visited { font-size:10px; color:#EFFBAD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link17:active { font-size:10px; color:#EFFBAD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link17:hover { font-size:10px; background-color:#000000; color:#D6C610; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+.gallerycontainer{
+position: relative;
+/*Add a height attribute and set to largest image's height to prevent overlaying*/
+}
+
+.thumbnail img{
+border: 1px solid white;
+margin: 0 5px 5px 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+}
+
+.thumbnail:hover img{
+border: 1px solid blue;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+padding: 10px;
+left: -0px;
+border: 1px dashed gray;
+visibility: hidden;
+color: black;
+font-weight: bold;
+text-decoration: none;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border-width: 0px;
+padding: 0px;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image*/
+visibility: visible;
+top: 0;
+left: 150px; /*position where enlarged image should offset horizontally */
+z-index: 50;
+}
+
+
