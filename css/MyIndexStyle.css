@@ -1,0 +1,102 @@
+BODY {
+	background-position: 	top left; 
+	background-color: 	#000033;
+	font-family:		sans-serif;
+}
+#home {
+	background:		url(../images/G_paper_W.jpg); 
+	background-position: 	top left; 
+	background-repeat:	repeat;
+	color: 			blue;
+	font-family:		sans-serif;
+	margin:			0px;
+}
+
+BODY.art {
+	background:	url( ../images/Art_Bgrnd.jpg );
+}
+
+BODY.paint {
+	background:		url( ../images/PaintBckgrnd.jpg );
+	background-repeat: 	no-repeat; 
+	background-position: 	top left; 
+}
+
+BODY.places {
+	background:	url( ../images/Alps_Veggie.jpg );
+}
+
+BODY.work {
+	background:	url( ../images/Work_Bckgrnd.jpg );
+}
+
+#former {
+	background:	url( ../images/Work_Bckgrnd.png );
+	background-repeat:	no-repeat;
+}
+
+p {
+	color:		black;
+	font-family:	serif; 
+	font-size:	18px }
+
+.toppee {
+	font-size: 	18px;
+	color:		blue;
+	list-style-type: none;
+	line-height: 	45px;
+}
+
+p.net {
+	font-size:	12px;
+	font-weight:	bold;
+}
+p.scripps {
+	font-size:	14px;
+}
+p.unil {
+	font-size:	12px;
+}
+p.unige {
+	font-size:	9px;
+}
+
+.link1:link { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:visited { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:active { font-size:10px; color:#00394A; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link1:hover { font-size:10px; color:#FF9933; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link2:link { font-size:14px; color:blue; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:visited { font-size:14px; color:blue; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:active { font-size:14px; color:blue; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:hover { font-size:14px; color:#63C6DE; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link3:link { font-size:14px; color:khaki; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:visited { font-size:14px; color:khaki; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:active { font-size:14px; color:khaki; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link3:hover { font-size:14px; color:#632910; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link4:link { font-size:10px; color:#103910; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:visited { font-size:10px; color:#103910; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:active { font-size:10px; color:#103910; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link4:hover { font-size:10px; color:#D6EF39; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link5:link { font-size:10px; color:#AF7817; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:visited { font-size:10px; color:#AF7817; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:active { font-size:10px; color:#AF7817; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link5:hover { font-size:10px; color:#FF9933; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link6:link { font-size:10px; color:#FFFFDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:visited { font-size:10px; color:#FFFFDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:active { font-size:10px; color:#FFFFDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link6:hover { font-size:10px; color:#FFDDAA; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.link7:link { font-size:10px; color:#FFDDAA; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link7:visited { font-size:10px; color:#FFDDAA; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link7:active { font-size:10px; color:#FFDDAA; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link7:hover { font-size:10px; color:#FFEEDD; font-family: verdana, arial, sans-serif; text-decoration: none}
+
+.family2 {width: 958px; text-align: left; padding-left: 20px; list-style-type: none;}
+ul.family2 { padding-left: 0; margin-left: 0; display: block; width: 30em; }
+/*ul.family2 a { border 1px dashed #000; border-bottom: none; margin-right: 5px; background-color: #ECECEC; }
+
