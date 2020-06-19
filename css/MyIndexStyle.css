@@ -51,11 +51,14 @@ p.net {
 	font-size:	12px;
 	font-weight:	bold;
 }
+p.coh {
+	font-size: 	12px
+}
 p.scripps {
-	font-size:	12px;
+	font-size:	11px;
 }
 p.unil {
-	font-size:	11px;
+	font-size:	10px;
 }
 p.unige {
 	font-size:	9px;
