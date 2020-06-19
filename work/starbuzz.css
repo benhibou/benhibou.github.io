@@ -1,0 +1,251 @@
+body { 
+	background-color: #b5a789;
+	background-color: #E9F2FF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	margin: 0px;
+}
+
+#main {
+	background: #efe5d0 url(images/background.gif) top left;
+	background-color: #E6EEFF;
+	font-size: 105%;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+}
+
+#sidebar {
+	background: #efe5d0 url(images/background.gif) bottom right;
+	font-size: 105%;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+}
+
+#footer {
+	background-color: #675c47;
+	color: #efe5d0;
+	text-align: center;
+	padding: 15px;
+	margin: 10px;
+	font-size: 90%;
+}
+
+#header {
+	background-color: #675c47;
+	background-color: #EFE5D0;
+	background-color: #C6DDFF;
+	background-color: #E6EEFF;
+	margin: 10px;
+	height: 108px;
+}
+
+#header img {
+	margin:	4px 4px 4px 10px;
+}
+
+#drinks {
+	background: #efe5d0 url(images/background.gif) top left;
+	background-color: #E6EEFF;
+	font-size: 105%;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+}
+
+#drinks2 {
+	background: #efe5d0 url(images/background.gif) top right;
+	background-color: #E6EEFF;
+	font-size: 105%;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+}
+
+h3 {
+	font-size: 200%;
+	color: #954b4b;
+}
+
+h1 {
+	font-size: 120%;
+	color: #954b4b;
+}
+
+h2 {
+	font-size: 110%;
+}
+
+.slogan {
+	color: #954b4b;
+}
+
+.beanheading {
+	text-align: center;
+	line-height: 1.8em;
+}
+
+.beanheading img {
+	width: 60%;
+}
+
+a:link {
+	color: #b76666;
+	color: #675c47;
+	text-decoration: none;
+	border-bottom: thin dotted #b76666;
+}
+a:visited {
+	color: #675c47;
+	text-decoration: none;
+	border-bottom: thin dotted #675c47;
+}
+
+#sidebar {
+	float: right;
+	width: 180px;
+}
+
+#main {
+	margin-right: 165px;
+	margin-left: 165px;
+}
+
+#drinks {
+	float: left;
+	width: 115px;
+}
+
+#drinks2 {
+	float: right;
+	width: 115px;
+}
+
+
+#footer {
+	clear: both;
+}
+
+/*
+#coupon {
+	display: none;
+	position: fixed;
+	top: 300px;
+	left: -90px;
+}
+
+#coupon img {
+	border: none;
+}
+#coupon a:link {
+	border: none;
+}
+#coupon a:visited {
+	border: none;
+}
+
+#content {
+	width: 800px;
+	margin: auto;
+}
+
+#award {
+	position: absolute;
+	top: 30px;
+	left: 365px;
+}
+*/
+
+#coupon {
+	display: none;
+}
+#award {
+	display: none;
+}
+
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+.gallerycontainer{
+position: relative;
+/*Add a height attribute and set to largest image's height to prevent overlaying*/
+}
+
+.thumbnail img{
+border: 1px solid white;
+margin: 0 5px 5px 0;
+}
+
+.thumbnail2 img{
+border: 1px solid white;
+margin: 0 0px 0px 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+}
+
+.thumbnail:hover img{
+border: 1px solid blue;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+background-color: #E9F2FF;
+padding: 10px;
+left: -0px;
+border: 1px dashed gray;
+visibility: hidden;
+color: black;
+font-weight: bold;
+text-decoration: none;
+}
+
+.thumbnail2 span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+background-color: #E9F2FF;
+padding: 0px;
+left: -0px;
+border: 1px dashed gray;
+visibility: hidden;
+color: black;
+font-weight: bold;
+text-decoration: none;
+}
+
+.thumbnail3 span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+background-color: #E9F2FF;
+padding: 0px;
+left: -0px;
+border: 1px dashed gray;
+visibility: hidden;
+color: black;
+font-weight: bold;
+text-decoration: none;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image*/
+visibility: visible;
+left: 150px; /*position where enlarged image should offset horizontally */
+z-index: 50;
+}
+
+.thumbnail2:hover span{ /*CSS for enlarged image*/
+visibility: visible;
+left: 150px; /*position where enlarged image should offset horizontally */
+z-index: 50;
+}
+
+.thumbnail3:hover span{ /*CSS for enlarged image*/
+visibility: visible;
+left: -550px; /*position where enlarged image should offset horizontally */
+z-index: 50;
+}
+
+.link2:link { font-size:12px; color:blue; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:visited { font-size:12px; color:blue; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:active { font-size:12px; color:blue; font-family: verdana, arial, sans-serif; text-decoration: none}
+.link2:hover { font-size:14px; color:#63C6DE; font-family: verdana, arial, sans-serif; text-decoration: none}
+
