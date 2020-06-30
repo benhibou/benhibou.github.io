@@ -26,6 +26,10 @@ BODY.places {
 	background:	url( ../images/Alps_Veggie.jpg );
 }
 
+BODY.praha {
+        background:     url( ../images/Praha_Collage.jpg );
+}
+
 BODY.work {
 	background:	url( ../images/Work_Bckgrnd.jpg );
 }
