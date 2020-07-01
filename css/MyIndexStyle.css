@@ -16,6 +16,10 @@ BODY.art {
 	background:	url( ../images/Art_Bgrnd.jpg );
 }
 
+BODY.berlin {
+        background:     url( ../images/Berlin_Collages.jpg );
+}
+
 BODY.paint {
 	background:		url( ../images/PaintBckgrnd2.jpg );
 	background-repeat: 	repeat; 
