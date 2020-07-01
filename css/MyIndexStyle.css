@@ -20,6 +20,10 @@ BODY.berlin {
         background:     url( ../images/Berlin_Collages.jpg );
 }
 
+BODY.nrw {
+        background:     url( ../images/NRW_Collage.jpg );
+}
+
 BODY.paint {
 	background:		url( ../images/PaintBckgrnd2.jpg );
 	background-repeat: 	repeat; 
